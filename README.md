@@ -1,8 +1,8 @@
-This is a Rubik's cube solver. It uses Java's processing software to code within the context
+This is a Rubik's cube solver written in Java. It uses Processing software to code within the context
 of visual art. The program allows the user to input a valid move before pressing the space bar,
 where the cube will then solve. 
 
-1. Download Java's processing
+1. Download Processing from https://processing.org/download/
 2. Download all files
 3. Set of valid moves for input are as follows:
           BbFfLlRrDdUuSsEeMm
