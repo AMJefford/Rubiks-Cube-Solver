@@ -9,3 +9,4 @@ where the cube will then solve.
    where lower case moves are clockwise movements and upper case moves are anti-clockwise.
 4. Once you have scrambled the cube (input your moves), press the space bar and the cube will solve.
   
+Note: You can look around the cube by clicking and dragging in the required direction
