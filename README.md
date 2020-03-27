@@ -4,6 +4,7 @@ where the cube will then solve.
 
 1. Download Processing from https://processing.org/download/
 2. Download all files
+3. Open Processing and open said files within Processing
 3. Set of valid moves for input are as follows:
           BbFfLlRrDdUuSsEeMm
    where lower case moves are clockwise movements and upper case moves are anti-clockwise.
